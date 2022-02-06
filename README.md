@@ -1,1 +1,1 @@
-# CT-Scan-Image-Classification-using-Deep-Learninging-Deep
+# CT-Scan-Image-Classification-using-Deep-Learning
